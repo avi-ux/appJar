@@ -28,7 +28,7 @@ Download Here: https://github.com/jarvisteach/appJar/raw/appJar/releases/appJar.
 
 Docs here: http://appJar.info
 
-This provides a library for implementing easy GUIs...
+This is provides a library for implementing easy GUIs...
 
 ### Installation:
  - Download the ZIP file (click the big green button) & unzip it
